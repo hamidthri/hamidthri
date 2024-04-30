@@ -1,20 +1,24 @@
 # Hello, I'm Hamid!
 
 ## 👨‍💻 About Me
-- 🎓 I’m currently a student at **42 Heilbronn**, focusing on **C** and **C++**.
-- 🌱 I’m majoring in **Electrical-Control Engineering** with a strong focus on **Artificial Intelligence**.
-- 💻 I'm working on AI projects using **TensorFlow** and **PyTorch**, writing code primarily in **Python**, **C**, and **C++**.
-- 🎯 I’m passionate about developing innovative solutions in the realm of artificial intelligence.
+- 🎓 Studying at **42 Heilbronn** with a focus on **C** and **C++**.
+- 🌱 Majoring in **Electrical-Control Engineering**, with a specialization in **Artificial Intelligence**.
+- 💻 Developing AI projects using **TensorFlow** and **PyTorch**; proficient in **Python**, **C**, and **C++**.
+- 🎯 Passionate about creating innovative AI solutions.
 
 ## 📫 How to Reach Me
-- **[LinkedIn]()** - Feel free to connect with me here!
-- **Email** - taheri.hamiid@gmail.com
+- **LinkedIn**: [Connect with me](#your-linkedin-url) (Don’t forget to replace `#your-linkedin-url` with your actual LinkedIn URL)
+- **Email**: [taheri.hamiid@gmail.com](mailto:taheri.hamiid@gmail.com)
 
 ## 🔍 Currently Learning
-- I am currently enhancing my skills in **advanced machine learning techniques** and **deep learning**.
+- Advancing my expertise in **machine learning** and **deep learning**.
 
 ## 💼 Skills
-```html
+- **Languages**: Python, C, C++
+- **Frameworks**: TensorFlow, PyTorch
+- **Fields**: Machine Learning, Deep Learning, Artificial Intelligence
+
+
 <div>
     <p>Python</p>
     <div style="background-color: lightblue; width: 80%; height: 20px;"></div>
