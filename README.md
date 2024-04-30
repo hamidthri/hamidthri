@@ -13,3 +13,30 @@
 ## 🔍 Currently Learning
 - I am currently enhancing my skills in **advanced machine learning techniques** and **deep learning**.
 
+## 💼 Skills
+```html
+<div>
+    <p>Python</p>
+    <div style="background-color: lightblue; width: 80%; height: 20px;"></div>
+</div>
+
+<div>
+    <p>C</p>
+    <div style="background-color: lightblue; width: 70%; height: 20px;"></div>
+</div>
+
+<div>
+    <p>C++</p>
+    <div style="background-color: lightblue; width: 60%; height: 20px;"></div>
+</div>
+
+<div>
+    <p>TensorFlow</p>
+    <div style="background-color: lightblue; width: 75%; height: 20px;"></div>
+</div>
+
+<div>
+    <p>PyTorch</p>
+    <div style="background-color: lightblue; width: 70%; height: 20px;"></div>
+</div>
+
