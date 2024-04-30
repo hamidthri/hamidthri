@@ -7,7 +7,7 @@
 - 🎯 Passionate about creating innovative AI solutions.
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [Connect with me](#your-linkedin-url) (Don’t forget to replace `#your-linkedin-url` with your actual LinkedIn URL)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/hamiid-taheri/)
 - **Email**: [taheri.hamiid@gmail.com](mailto:taheri.hamiid@gmail.com)
 
 ## 🔍 Currently Learning
