@@ -13,34 +13,12 @@
 ## 🔍 Currently Learning
 - Advancing my expertise in **machine learning** and **deep learning**.
 
+##  stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidthri&theme=react&layout=compact&langs_count=8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamidthri&show_icons=true&theme=transparent)
+
 ## 💼 Skills
 - **Languages**: Python, C, C++
 - **Frameworks**: TensorFlow, PyTorch
 - **Fields**: Machine Learning, Deep Learning, Artificial Intelligence
-
-
-<div>
-    <p>Python</p>
-    <div style="background-color: lightblue; width: 80%; height: 20px;"></div>
-</div>
-
-<div>
-    <p>C</p>
-    <div style="background-color: lightblue; width: 70%; height: 20px;"></div>
-</div>
-
-<div>
-    <p>C++</p>
-    <div style="background-color: lightblue; width: 60%; height: 20px;"></div>
-</div>
-
-<div>
-    <p>TensorFlow</p>
-    <div style="background-color: lightblue; width: 75%; height: 20px;"></div>
-</div>
-
-<div>
-    <p>PyTorch</p>
-    <div style="background-color: lightblue; width: 70%; height: 20px;"></div>
-</div>
-
