@@ -7,16 +7,11 @@
 - 🎯 Passionate about creating innovative AI solutions.
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/hamiid-taheri/)
-- **Email**: [taheri.hamiid@gmail.com](mailto:taheri.hamiid@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/hamiid-taheri/)
+- [**Email**](mailto:taheri.hamiid@gmail.com)
 
-## 🔍 Currently Learning
-- Advancing my expertise in **machine learning** and **deep learning**.
-
-##  stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidthri&theme=react&layout=compact&langs_count=8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamidthri&show_icons=true&theme=transparent)
+##  Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidthri&theme=react&layout=compact&langs_count=8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamidthri&show_icons=true&theme=transparent)
 
 ## 💼 Skills
 - **Languages**: Python, C, C++
