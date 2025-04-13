@@ -1,10 +1,9 @@
 # Hello, I'm Hamid!
 
 ## 👨‍💻 About Me
-- Studying at **42 Heilbronn** with a focus on **C** and **C++**.
+- Studying at **42 Heilbronn** as a mastery student with a focus on **C** and **C++** and Python.
 - Majoring in **Electrical-Control Engineering**, with a specialization in **Artificial Intelligence**.
 - Developing AI projects using **TensorFlow** and **PyTorch**; proficient in **Python**, **C**, and **C++**.
-- Passionate about creating innovative AI solutions.
 
 ## How to Reach Me
 - [**LinkedIn**](https://www.linkedin.com/in/hamiid-taheri/)
