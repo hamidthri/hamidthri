@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Hamid+Taheri;Robotics+Engineer+%7C+AI+Specialist;Control+Systems+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Computer+Vision+%7C+Robotics+%26+Control" alt="Typing SVG" />
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hamidtaheri/)
   [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:taheri.hamiid@gmail.com)
@@ -7,8 +7,7 @@
 
 ## About Me
 
-Robotics and AI Specialist with a strong background in Control Systems, currently based in Heilbronn, Germany. Passionate about developing intelligent systems through deep reinforcement learning, computer vision, and advanced control strategies.
-
+Hi, I’m Hamid. A robotics and AI specialist with a passion for control systems. I enjoy creating intelligent solutions that bring together deep reinforcement learning, computer vision, and advanced control strategies to solve real-world problems.
 ## Skills
 
 <div align="center">
@@ -32,6 +31,7 @@ Robotics and AI Specialist with a strong background in Control Systems, currentl
         <br>
         <img src="https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
         <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+        <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
       </td>
       <td align="center">
         <h3>Web Development</h3>
@@ -41,7 +41,8 @@ Robotics and AI Specialist with a strong background in Control Systems, currentl
   </table>
 </div>
 
-## 📊 GitHub Stats
+
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/hamidthri">
@@ -57,7 +58,7 @@ Robotics and AI Specialist with a strong background in Control Systems, currentl
 
 <div align="center">
   <a href="https://github.com/hamidthri">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidthri&langs_count=6&layout=compact&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidthri&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss,javascript" />
     <img src="https://github-readme-stats.vercel.app/api?username=hamidthri&show_icons=true&theme=tokyonight&hide_border=true" />
   </a>
 </div>
