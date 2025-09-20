@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Computer+Vision+%7C+Robotics+%26+Control" alt="Typing SVG" />
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hamidtaheri/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hamiid-taheri/)
   [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:taheri.hamiid@gmail.com)
 </div>
 
